@@ -1,7 +1,7 @@
 # GENERATE COARSE TRAJECTORY IN THE OPEN SPACE
 
 # Introduction
-The goal of htbrid_a_star is to generate the coarse trajectory in the open space. Hybrid_a_star contains node3d， grid_search， reeds_shepp_path and hybrid_a_star. hybrid_a_star is the most important component generating the coarse trajectory and call the grid_search and reeds_shepp_path.
+The goal of hybrid_a_star is to generate the coarse trajectory in the open space. Hybrid_a_star contains node3d， grid_search， reeds_shepp_path and hybrid_a_star. hybrid_a_star is the most important component generating the coarse trajectory and call the grid_search and reeds_shepp_path.
 
 # Where is the code
 Please refer to [hybrid a star.cc](https://github.com/ApolloAuto/apollo/tree/master/modules/planning/open_space/coarse_trajectory_generator/hybrid_a_star.cc)
